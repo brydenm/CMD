@@ -1,0 +1,7 @@
+REM Compare two files
+fc filename1.csv filename2.csv > outputfile.txt
+
+
+REM Set folder to network location
+pushd \\networkpath
+
